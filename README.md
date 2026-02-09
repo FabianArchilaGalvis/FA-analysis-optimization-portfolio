@@ -1,7 +1,6 @@
 # FA-analysis-optimization-portfolio
-Fabian Archila, ingeniero industrial UIS con experiencia en análisis y optimización en las diferentes áreas de una empresa.
--
-Fabian Archila, UIS industrial engineer with experience in analysis and optimization in different areas of a company (English below the spanish text).
+- Fabian Archila, ingeniero industrial UIS con experiencia en análisis y optimización en las diferentes áreas de una empresa.
+- Fabian Archila, UIS industrial engineer with experience in analysis and optimization in different areas of a company (English below the spanish text).
 
 Este repositorio presenta un caso práctico donde se transforman datos operativos en información útil para apoyar la toma de decisiones, con un enfoque generalista y aplicable a distintas áreas de la empresa.
 
